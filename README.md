@@ -1,16 +1,74 @@
-# React + Vite
+# 🛒 Om Infotech - Digital Solution Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, fully responsive, and feature-rich frontend web application for a digital electronics and repair store. Built with React.js and Tailwind CSS, this project showcases a seamless user interface with dynamic routing, category filtering, and direct WhatsApp integration for business inquiries.
 
-Currently, two official plugins are available:
+## 🌟 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **📱 Fully Responsive Design:** Optimized for all devices (Mobiles, Tablets, and Desktops) using Tailwind CSS.
+- **🛍️ Dynamic Product Catalog:** 
+  - Real-time search functionality.
+  - Custom-built category dropdown for seamless filtering.
+- **💬 WhatsApp Integration:** Customers can directly inquire about a specific product via a pre-filled WhatsApp message.
+- **🖼️ Premium UI Components:**
+  - Auto-playing Hero Image Slider.
+  - Product Image Gallery with clickable thumbnails.
+  - "You Might Also Like" (Related Products) section.
+- **📍 Live Location Mapping:** Integrated Google Maps for the physical store location.
+- **⚡ Fast & Modern:** Clean architecture with reusable React components and React Router for smooth navigation without page reloads.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend Framework:** [React.js](https://reactjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Routing:** [React Router v6](https://reactrouter.com/)
+- **Icons & Graphics:** Custom SVGs & Unsplash Images
 
-## Expanding the Oxlint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+Make sure you have Node.js installed on your system.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/om-infotech.git](https://github.com/your-username/om-infotech.git)
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd om-infotech
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and visit http://localhost:5173/
+
+## 📂 Project Structure
+
+```text
+src/
+├── assets/          # Static files like images and icons
+├── components/      # Reusable React components (Navbar, ProductCard, Footer, etc.)
+├── data/            # Local JSON data (data.json) for products
+├── pages/           # Main page components (Home, AllProducts, ProductDetail)
+├── App.jsx          # Main application routing
+└── index.css        # Tailwind directives and global styles
+```
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+*Developed by Ankit Kumar*
+   
