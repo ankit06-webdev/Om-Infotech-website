@@ -1,5 +1,7 @@
 # 🛒 Om Infotech - Digital Solution Hub
 
+👉 **[View Live Website](https://om-infotech-website.vercel.app/)**
+
 A modern, fully responsive, and feature-rich frontend web application for a digital electronics and repair store. Built with React.js and Tailwind CSS, this project showcases a seamless user interface with dynamic routing, category filtering, and direct WhatsApp integration for business inquiries.
 
 ## 🌟 Key Features
