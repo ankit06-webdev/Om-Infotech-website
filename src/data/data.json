@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "name": "Realme P4x 5G",
+    "category": "Smartphones",
+    "price": "14,999",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Best mid-range 5G smartphone with immersive display and long-lasting battery.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy M14",
+    "category": "Smartphones",
+    "price": "12,499",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Reliable smartphone with a massive battery and excellent camera setup.",
+    "specs": {
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "6000mAh",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Redmi Note 13 5G",
+    "category": "Smartphones",
+    "price": "17,999",
+    "image": "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Super slim design with a stunning AMOLED display and fast processor.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Camera": "108MP",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Poco X6 Pro",
+    "category": "Smartphones",
+    "price": "26,999",
+    "image": "https://images.unsplash.com/photo-1605236453806-6ff368528d8f?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1605236453806-6ff368528d8f?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Ultimate gaming smartphone with flagship-level performance and cooling.",
+    "specs": {
+      "RAM": "12GB",
+      "Processor": "Dimensity 8300 Ultra",
+      "Battery": "5000mAh",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Vivo T2x 5G",
+    "category": "Smartphones",
+    "price": "12,999",
+    "image": "https://images.unsplash.com/photo-1621330396167-a417fca13f70?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1621330396167-a417fca13f70?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Budget-friendly 5G phone with great battery life and sleek design.",
+    "specs": {
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Oppo A79 5G",
+    "category": "Smartphones",
+    "price": "19,999",
+    "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Stylish 5G smartphone with dual stereo speakers and fast charging.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Charging": "33W SUPERVOOC",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Moto G34 5G",
+    "category": "Smartphones",
+    "price": "10,999",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Premium vegan leather design with clean stock Android experience.",
+    "specs": {
+      "RAM": "4GB",
+      "Storage": "128GB",
+      "OS": "Android 14",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "8",
+    "name": "OnePlus Nord CE 3 Lite",
+    "category": "Smartphones",
+    "price": "19,999",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1621330396167-a417fca13f70?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "High-resolution camera and super-fast charging in a vibrant color.",
+    "specs": {
+      "RAM": "8GB",
+      "Camera": "108MP",
+      "Charging": "67W",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Symphony Diet 12T Personal Cooler",
+    "category": "Coolers",
+    "price": "5,499",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b46a0eb?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1618220179428-22790b46a0eb?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595856425316-29a3e1471715?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Compact and powerful tower cooler, perfect for small rooms and shops.",
+    "specs": {
+      "Capacity": "12 Litres",
+      "Cooling Area": "100 sq.ft.",
+      "Power": "170W",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Kenstar Little DX Air Cooler",
+    "category": "Coolers",
+    "price": "4,200",
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1616428616254-8c0817c13cb2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Portable air cooler with honeycomb cooling pads for efficient cooling.",
+    "specs": {
+      "Capacity": "10 Litres",
+      "Cooling Area": "80 sq.ft.",
+      "Power": "140W",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Bajaj PMH 25 Room Air Cooler",
+    "category": "Coolers",
+    "price": "6,199",
+    "image": "https://images.unsplash.com/photo-1581622558667-3419a8dc5f83?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1581622558667-3419a8dc5f83?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618220179428-22790b46a0eb?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Durable cooler with anti-bacterial hexacool technology.",
+    "specs": {
+      "Capacity": "24 Litres",
+      "Air Throw": "18 Feet",
+      "Speed": "3 Levels",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Crompton Ozone 75 Desert Cooler",
+    "category": "Coolers",
+    "price": "9,999",
+    "image": "https://images.unsplash.com/photo-1595856425316-29a3e1471715?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1595856425316-29a3e1471715?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Heavy-duty desert cooler for large spaces with a massive tank.",
+    "specs": {
+      "Capacity": "75 Litres",
+      "Cooling Area": "550 sq.ft.",
+      "Power": "190W",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Havells Tuono Personal Cooler",
+    "category": "Coolers",
+    "price": "4,999",
+    "image": "https://images.unsplash.com/photo-1616428616254-8c0817c13cb2?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1616428616254-8c0817c13cb2?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1581622558667-3419a8dc5f83?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Stylish personal cooler with ice chamber for instant chilled air.",
+    "specs": {
+      "Capacity": "18 Litres",
+      "Ice Chamber": "Yes",
+      "Dust Filter": "Yes",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "14",
+    "name": "65W SuperVOOC Fast Charger",
+    "category": "Accessories",
+    "price": "999",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1614113489855-66422ad300a4?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Universal fast charging adapter with Type-C cable included.",
+    "specs": {
+      "Output": "65W",
+      "Port": "Type-C",
+      "Cable Included": "Yes",
+      "Warranty": "6 Months"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Boat Airdopes 141",
+    "category": "Accessories",
+    "price": "1,299",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "True wireless earbuds with 42H playtime and low latency gaming mode.",
+    "specs": {
+      "Playtime": "42 Hours",
+      "Bluetooth": "v5.1",
+      "Water Resistance": "IPX4",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Noise ColorFit Pro 4",
+    "category": "Accessories",
+    "price": "2,499",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Bluetooth calling smartwatch with a vivid display and health tracking.",
+    "specs": {
+      "Display": "1.72 inch",
+      "Calling": "Yes",
+      "Battery": "7 Days",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "17",
+    "name": "SanDisk Ultra 64GB Pen Drive",
+    "category": "Accessories",
+    "price": "449",
+    "image": "https://images.unsplash.com/photo-1614113489855-66422ad300a4?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1614113489855-66422ad300a4?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "High-speed USB 3.0 flash drive for quick data transfer.",
+    "specs": {
+      "Capacity": "64GB",
+      "Interface": "USB 3.0",
+      "Speed": "Up to 130MB/s",
+      "Warranty": "5 Years"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Zebronics Zeb-Plush Wireless Mouse",
+    "category": "Accessories",
+    "price": "299",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Ergonomic wireless mouse with high precision optical tracking.",
+    "specs": {
+      "Type": "Wireless",
+      "Buttons": "4",
+      "Range": "10 meters",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Ambrane 10000mAh Power Bank",
+    "category": "Accessories",
+    "price": "899",
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "Compact power bank with 20W fast charging and dual output.",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Output": "20W Fast Charge",
+      "Ports": "2 USB-A, 1 Type-C",
+      "Warranty": "6 Months"
+    }
+  },
+  {
+    "id": "20",
+    "name": "JBL C100SI Wired Earphones",
+    "category": "Accessories",
+    "price": "599",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "In-ear headphones with pure bass sound and one-button remote.",
+    "specs": {
+      "Type": "Wired",
+      "Connector": "3.5mm Jack",
+      "Mic": "Yes",
+      "Warranty": "1 Year"
+    }
+  }
+]
