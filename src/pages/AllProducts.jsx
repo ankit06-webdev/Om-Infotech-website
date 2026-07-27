@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 import ProductCard from '../components/ProductCard';
 import productsData from '../data/data.json';
 import Navbar from '../components/Navbar';
 
 const AllProducts = () => {
-  const navigate = useNavigate();
+  const location = useLocation();
 
   const [activeCategory, setActiveCategory] = useState("all");
   const [searchTerm, setSearchTerm] = useState('');
@@ -18,7 +18,11 @@ const AllProducts = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, []);
+    // Home page se aane wali category ko catch karne ke liye
+    if (location.state?.category) {
+      setActiveCategory(location.state.category.toLowerCase());
+    }
+  }, [location.state]);
 
   const filteredProducts = productsData.filter((product) => {
     const matchesSearch = product.name.toLowerCase().includes(searchTerm.toLowerCase());

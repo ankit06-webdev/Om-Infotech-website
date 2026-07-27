@@ -18,7 +18,7 @@ const FeaturedProducts = () => {
   ];
 
   const handleCategoryClick = (categoryName) => {
-    navigate('/products', { state: { category: categoryName } });
+    navigate('/products', { state: { category: categoryName.toLowerCase() } });
   };
 
   return (
